@@ -1,3 +1,7 @@
+# https://github.com/Belarocha1223/Lab-10-IR
+# Partner 1: Isabela Rocha
+# Partner 2: none
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
