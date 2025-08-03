@@ -1,4 +1,6 @@
 # https://github.com/Belarocha1223/Lab-10-IR
+# Partner 1: Isabela Rocha
+# Partner 2: none
 
 import unittest
 from calculator import *
@@ -56,9 +58,7 @@ class TestCalculator(unittest.TestCase):
 # Do not touch this
 if __name__ == "__main__":
     unittest.main()
-    # https://github.com/Belarocha1223/Lab-10-IR
-    # Partner 1: Isabela Rocha
-    # Partner 2: none
+
     import unittest
     import math
     import calculator

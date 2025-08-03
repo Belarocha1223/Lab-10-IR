@@ -1,4 +1,6 @@
 # https://github.com/Belarocha1223/Lab-10-IR
+# Partner 1: Isabela Rocha
+# Partner 2: none
 
 """
 calculator.py
@@ -10,9 +12,7 @@ One function per operation, in order.
 def add(a, b): 
     pass
 
-# https://github.com/Belarocha1223/Lab 10-IR
-# Partner 1: Isabela Rocha
-# Partner 2: none
+
 
 import math
 
